@@ -1,5 +1,7 @@
-# Fantasy-Football
-What is this about?
-The goal is to provide fantasy football player a valid decision base for the upcoming fantasy player auction.
-This repository will download past fantasy-football data-frames and understand wich player to buy.
+# Fantaclcio
+
+Obbiettivo:
+Fare un asta di Fantacalcio basata su statistiche dei calciatori.
+
+L' obbiettivo e di questo progetto é quello di creare un modulo che permetta a tutti i Fanta-allenatori, di scaricare le stat delle ultime stagioni e in base alla quotazione del giocatore inividuare i migliori acquisti per la propria squadra
 
